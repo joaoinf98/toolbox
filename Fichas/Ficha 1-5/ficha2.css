@@ -1,0 +1,32 @@
+flexwrapper {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+   }
+   .flexItems {
+    display: flex;
+    align-items: center;
+    min-height: 6.25rem;
+    padding: 1rem;
+   }
+   header {
+    background-color: orange;
+   }
+   footer {
+    background-color: yellow;
+   }
+   nav {
+    background-color: green;
+   }
+   .foco {
+    background-color: blue;
+   }
+   .ultimas {
+    background-color: purple;
+   }
+   .agenda {
+    background-color: blueviolet;
+   }
+   .links {
+    background-color: red;
+   }

@@ -1,0 +1,39 @@
+.container {
+position: relative;
+}
+nav {
+    position: absolute;
+    left: 0px;
+    width: 200px;
+}
+section {
+    display: flex;
+margin-left:200px;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    background-color: white;
+    width: 100%;
+}
+body {
+    margin-bottom: 120px;
+}
+.navegar{
+    display: flex;
+    flex-direction: column;    
+}
+.secção{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+.Rodapé{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: crimson;
+}
+
